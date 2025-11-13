@@ -1,4 +1,6 @@
-﻿using SistemaMusica.Modelos;
+﻿//Programa principal
+
+using SistemaMusica.Modelos;
 using SistemaMusica.Servicios;
 
 var gestor = new GestorCanciones();
